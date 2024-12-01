@@ -207,6 +207,9 @@ main {
   list-style-type: none;
   width: 70%;
 }
+#faq li {
+  padding-top: 5px;
+}
 
 /* Footer Section */
 
